@@ -25,7 +25,7 @@ of what each of the values mean.
 export const info = {
     firstName: "Isaac",
     lastName: "Sindiga",
-    initials: "js", // the example uses first and last, but feel free to use three or more if you like.
+    initials: "is", // the example uses first and last, but feel free to use three or more if you like.
     position: "a Full Stack Developer",
     selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
@@ -49,18 +49,14 @@ export const info = {
         }
     ],
     socials: [
-        {
-            link: "https://www.facebook.com/isaac.sindiga.7/about",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
+      
         {
             link: "https://instagram.com",
             icon: 'fa fa-instagram',
             label: 'instagram'
         },
         {
-            link: "https://github.com",
+            link: "https://github.com/sindiga-dev",
             icon: "fa fa-github",
             label: 'github'
         },
