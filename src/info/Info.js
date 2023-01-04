@@ -81,7 +81,7 @@ export const info = {
 //Hello! I'm Isaac. I'm a junior software developer. I studied software dvelopment at Moringa School and currently studying computer science at Africa Nazarene University, I enjoy interacting with code and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
 
     ],
-    bio: "Hello! I'm Isaac. I'm a junior software developer. I studied software dvelopment at Moringa School and currently studying computer science at Africa Nazarene University, I enjoy interacting with code and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "Hello! I'm Isaac. I'm a junior software developer. I studied software development at Moringa School and currently studying computer science at Africa Nazarene University, I enjoy interacting with code and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
     skills:
         {
             proficientWith: ['javascript', 'react', 'ruby','rails','html','css','git'],
