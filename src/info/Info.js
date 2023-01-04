@@ -50,7 +50,7 @@ export const info = {
     ],
     socials: [
         {
-            link: "https://facebook.com",
+            link: "https://www.facebook.com/isaac.sindiga.7/about",
             icon: 'fa fa-facebook',
             label: 'facebook'
         },
@@ -65,14 +65,20 @@ export const info = {
             label: 'github'
         },
         {
-            link: "https://linkedin.com",
+            link: "https://www.linkedin.com/in/isaac-sindiga-2494841b2/",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com",
+            link: "https://twitter.com/Sindigaisaac",
             icon: "fa fa-twitter",
             label: 'twitter'
+        },
+        //add a blog
+        {
+            link: "https://medium.com/@is.sindiga",
+            icon: "fa fa-rss",
+            label: 'blog'
         }
 // Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
 // Just change the links so that they lead to your social profiles.
